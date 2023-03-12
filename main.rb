@@ -36,4 +36,5 @@ answers = [
 
 puts greetings.sample
 puts
+sleep 3
 puts answers.sample
